@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "2ec90db363ea7988",
+    "type": "split",
+    "children": [
+      {
+        "id": "df1dc4e0e2e0a67e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83b1f8297387ee91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2025-03-19-iplist.sh.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-03-19-iplist.sh"
+            }
+          },
+          {
+            "id": "82799b5683ef42d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2025-03-19-iplist.sh.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-03-19-iplist.sh"
+            }
+          },
+          {
+            "id": "b440b20abf9107d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2025-03-19-iplist.sh.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-03-19-iplist.sh"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "38ebe270c698dde4",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a8cc69983db8d64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf17db5520ebd28d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "960528857e1777cb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "64a1647a9fdb0719",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ce3916874bcaeb50",
+    "type": "split",
+    "children": [
+      {
+        "id": "479904a05d71d74a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fb20bc5cc10191c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2025-03-19-iplist.sh.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-03-19-iplist.sh"
+            }
+          },
+          {
+            "id": "905264488dc4485a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2025-03-19-iplist.sh.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-03-19-iplist.sh"
+            }
+          },
+          {
+            "id": "47a669184a26b490",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "43c571894f50ab74",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2025-03-19-iplist.sh.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-03-19-iplist.sh"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b440b20abf9107d0",
+  "lastOpenFiles": [
+    "_posts/2025-03-30-prueba.md",
+    "_posts/Pasted image 20250330025450.png",
+    "_posts/Pasted image 20250330025404.png",
+    "_posts/Pasted image 20250330024324.png",
+    "_posts/Pasted image 20250330024415.png",
+    "_posts/2025-03-19-iplist.sh.md",
+    "_posts/Pasted image 20250330024638.png",
+    "_posts/Pasted image 20250330024345.png",
+    "_posts/Pasted image 20250330023709.png",
+    "Pasted image 20250330023505.png",
+    "assets/2025-03-30_02-28.png",
+    "assets/fotoperfil.jpg"
+  ]
+}
